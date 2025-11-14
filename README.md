@@ -122,6 +122,6 @@ Apache и Nginx являются зрелыми, стабильными и мо�
 - Документация Документация Apache HTTP Server // Apache Software Foundation. // URL: <https://httpd.apache.org/docs/2.4/ru/>.
 - Документация Nginx // F5 NGINX, Inc. // URL: <https://nginx.org/ru/docs/>.
 - Труш А. В. Автоматизированное управление жизненным циклом программного обеспечения на основе проектов компании «Технопарк-Автоматизация»: магистерская диссертация // Екатеринбург: УрФУ, 2023. // URL: <https://elar.urfu.ru/bitstream/10995/129149/1/m_th_a.v.trush_2023.pdf>.
-- Латыпов Э. Ф. Сравнительный анализ работы веб-серверов Apache и Nginx // Экономика и социум, 2017. // URL: <https://cyberleninka.ru/article/n/sravnitelnyy-analiz-raboty-web-serverov-apache-i-nginx>.
+- Латыпов Э. Ф. Сравнительный анализ работы веб-серверов Apache и Nginx // Самара: ПГУТИ, 2017. // URL: <https://cyberleninka.ru/article/n/sravnitelnyy-analiz-raboty-veb-serverov-apache-i-nginx>.
 - Apache HTTP Server vs NGINX: Detailed Comparison // Kinsta Blog, 2024. URL: <https://kinsta.com/blog/apache-vs-nginx/>.
 - Nginx против Apache: Как выбрать лучший веб-сервер // DreamHost, 2025. // URL: <https://www.dreamhost.com/blog/nginx-vs-apache/>.
